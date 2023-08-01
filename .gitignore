@@ -1,0 +1,6 @@
+venv/
+.idea/
+parser/downloaded_files
+parser/latest_logs
+parser/result
+parser/1.png
