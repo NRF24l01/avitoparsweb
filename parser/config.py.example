@@ -1,0 +1,4 @@
+dbname = 'test'
+user = 'postgres'
+password = 'secret'
+host = 'host'
