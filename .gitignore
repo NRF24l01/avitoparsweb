@@ -1,6 +1,8 @@
-venv/
-.idea/
+.idea
+venv
 parser/downloaded_files
 parser/latest_logs
 parser/result
 parser/1.png
+parser/config.py
+key/config.py
